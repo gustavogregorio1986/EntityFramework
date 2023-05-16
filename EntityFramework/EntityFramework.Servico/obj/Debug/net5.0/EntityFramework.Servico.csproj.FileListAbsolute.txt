@@ -1,0 +1,17 @@
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\bin\Debug\net5.0\EntityFramework.Servico.deps.json
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\bin\Debug\net5.0\EntityFramework.Servico.dll
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\bin\Debug\net5.0\EntityFramework.Servico.pdb
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\bin\Debug\net5.0\EntityFramework.Data.dll
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\bin\Debug\net5.0\EntityFramework.Dominio.dll
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\bin\Debug\net5.0\EntityFramework.Data.pdb
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\bin\Debug\net5.0\EntityFramework.Dominio.pdb
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\obj\Debug\net5.0\EntityFramework.Servico.csproj.AssemblyReference.cache
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\obj\Debug\net5.0\EntityFramework.Servico.GeneratedMSBuildEditorConfig.editorconfig
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\obj\Debug\net5.0\EntityFramework.Servico.AssemblyInfoInputs.cache
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\obj\Debug\net5.0\EntityFramework.Servico.AssemblyInfo.cs
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\obj\Debug\net5.0\EntityFramework.Servico.csproj.CoreCompileInputs.cache
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\obj\Debug\net5.0\EntityFramework.Servico.csproj.CopyComplete
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\obj\Debug\net5.0\EntityFramework.Servico.dll
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\obj\Debug\net5.0\refint\EntityFramework.Servico.dll
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\obj\Debug\net5.0\EntityFramework.Servico.pdb
+C:\DevEntityFramework\EntityFramework\EntityFramework.Servico\obj\Debug\net5.0\ref\EntityFramework.Servico.dll
